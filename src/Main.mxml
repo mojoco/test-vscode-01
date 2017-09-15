@@ -1,0 +1,10 @@
+package
+{
+    public class Main
+    {
+        public function Main ()
+        {
+		    trace ("Hello main");
+        }
+    }
+}
